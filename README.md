@@ -1,4 +1,3 @@
-# AurA-materials
-Code and data for AurA simulations
+# AurA simulation data
 
-More information will follow.
+Complete Folding@home simulation data analyzed for this publication is available via the [Open Science Framework](https://osf.io/afg8h/).
