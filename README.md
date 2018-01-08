@@ -14,7 +14,7 @@ Complete Folding@home simulation data analyzed for the Cyphers publication is av
 Complete Folding@home simulation data analyzed for the Ruff publication will be made avaialable soon! 
 
 ## License 
-The code in this work is licensed under the MIT license, contained in the `SOFTWARE_LICENSE` file. All data associated with this work is licensed using the CC BY 4.0 license. More information is contained in the `DATA_LICENSE` file 
+The code in this work is licensed under the [MIT license](https://opensource.org/licenses/MIT), contained in the `SOFTWARE_LICENSE` file. All data associated with this work is licensed using the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/). More information is contained in the `DATA_LICENSE` file 
 
 ## Manifest
 
