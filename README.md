@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/79592180.svg)](https://zenodo.org/badge/latestdoi/79592180)
+
 # AurA Folding@home simulations
 
 This site archives explicit solvent trajectory data, scripts, and figures for the following publications:
