@@ -9,7 +9,7 @@ Soreen Cyphers, Emily F Ruff, Julie M Behr, John D Chodera, and Nicholas M Levin
 DOI: [10.1038/nchembio.2296](http://dx.doi.org/10.1038/nchembio.2296)
 
 Emily F. Ruff, Joseph M. Muretta, Andrew Thompson, Eric Lake, Soreen Cyphers, Steven K. Albanese, Sonya M. Hanson, Julie M. Behr, David D. Thomas, John D. Chodera, Nicholas M. Levinson
-**A dynamic mechanism for allosteric activation of Aurora kinase A by activation loop phosphorylation** DOI: [BioRxiv](https://doi.org/10.1101/205260) 
+**A dynamic mechanism for allosteric activation of Aurora kinase A by activation loop phosphorylation** DOI: [10.7554/eLife.32766](https://doi.org/10.7554/eLife.32766) 
 
 
 Complete Folding@home simulation data analyzed for the Cyphers publication is available via the [Open Science Framework](https://osf.io/afg8h/).
