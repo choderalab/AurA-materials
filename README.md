@@ -13,7 +13,7 @@ Emily F. Ruff, Joseph M. Muretta, Andrew Thompson, Eric Lake, Soreen Cyphers, St
 
 
 Complete Folding@home simulation data analyzed for the Cyphers publication is available via the [Open Science Framework](https://osf.io/afg8h/).
-Complete Folding@home simulation data analyzed for the Ruff publication will be made avaialable soon! 
+Complete Folding@home simulation data analyzed for the Ruff publication will be made available soon! 
 
 ## License 
 * The software in this repository is made available under the [MIT License](https://opensource.org/licenses/MIT) - a copy of this license is provided as `SOFTWARE_LICENSE`
